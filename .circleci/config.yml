@@ -2,7 +2,6 @@ version: 2.1
 
 orbs:
   node: circleci/node@4.7
-  resource_class: sarathanatraj/demo
 
 jobs:
   build-and-test:
